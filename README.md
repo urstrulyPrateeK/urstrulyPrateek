@@ -1,7 +1,7 @@
-<div align="center">
+<div al  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />gn="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Prateek%20Singh&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&amp;descAlignY=55&amp;descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
 
 <!-- Professional Title with Slower Animation -->
 <h1 align="center">
@@ -10,7 +10,7 @@
 
 <!-- Animated Subtitle with Slower Speed -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1500&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Crafting+innovative+solutions+with+cutting-edge+technology;Building+AI-powered+applications+that+make+a+difference;Securing+digital+landscapes+with+advanced+cybersecurity;Transforming+ideas+into+scalable+web+applications" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=Crafting+innovative+solutions+with+cutting-edge+technology;Building+AI-powered+applications+that+make+a+difference;Securing+digital+landscapes+with+advanced+cybersecurity;Transforming+ideas+into+scalable+web+applications" alt="Subtitle Typing SVG" />
 </h3>
 
 <!-- Matrix Rain Effect Separator -->
@@ -33,14 +33,14 @@
 </p>
 
 <!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=12&amp;height=2&amp;section=header&amp;reversal=false&amp;textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&reversal=false&textBg=false"/>
 
 </div>
 
 <!-- STAR PROJECTS SHOWCASE -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=30,25,20&amp;height=100&amp;section=header&amp;text=FEATURED%20LIVE%20PROJECTS&amp;fontSize=24&amp;fontColor=fff&amp;animation=scaleIn&amp;fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,20&height=100&section=header&text=FEATURED%20LIVE%20PROJECTS&fontSize=24&fontColor=fff&animation=scaleIn&fontAlignY=70"/>
 
 ### 🏆 **STAR PROJECTS - LIVE & IN ACTION** 🏆
 *Click to experience the magic!*
@@ -114,7 +114,7 @@
 <!-- EDUCATION SECTION WITH ADVANCED ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=header&amp;text=EDUCATION%20%26%20ACHIEVEMENTS&amp;fontSize=22&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=EDUCATION%20%26%20ACHIEVEMENTS&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 
 <!-- Interactive Timeline -->
 ```mermaid
@@ -171,7 +171,7 @@ timeline
 <!-- CERTIFICATIONS WITH PROFESSIONAL ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,8,15&amp;height=80&amp;section=header&amp;text=CERTIFICATIONS%20%26%20EXPERTISE&amp;fontSize=20&amp;fontColor=fff&amp;animation=scaleIn&amp;fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,15&height=80&section=header&text=CERTIFICATIONS%20%26%20EXPERTISE&fontSize=20&fontColor=fff&animation=scaleIn&fontAlignY=60"/>
 
 <!-- Professional Achievement Cards -->
 <table width="100%">
@@ -210,7 +210,7 @@ timeline
 <!-- TECHNICAL ARSENAL WITH ADVANCED ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,25,30&amp;height=120&amp;section=header&amp;text=TECHNICAL%20ARSENAL&amp;fontSize=28&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=TECHNICAL%20ARSENAL&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
 <!-- Interactive Tech Stack Visualization -->
 
@@ -259,7 +259,7 @@ timeline
 <!-- GITHUB ANALYTICS WITH PROFESSIONAL ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,9,20&amp;height=120&amp;section=header&amp;text=GITHUB%20ANALYTICS&amp;fontSize=28&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=75"/>
 
 <!-- Advanced GitHub Stats Grid -->
 <table width="100%">
@@ -267,13 +267,13 @@ timeline
 <td width="50%" align="center">
 
 ### 📊 **Performance Metrics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urstrulyPrateeK&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=20&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urstrulyPrateeK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 **Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyPrateeK&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;border_radius=20&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyPrateeK&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </td>
 </tr>
@@ -283,7 +283,7 @@ timeline
 <div align="center" style="margin: 20px 0;">
 
 ### ⚡ **Contribution Streak**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=urstrulyPrateeK&amp;theme=tokyonight&amp;border_radius=20&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=urstrulyPrateeK&theme=tokyonight&border_radius=20&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -291,7 +291,7 @@ timeline
 <div align="center" style="margin: 20px 0;">
 
 ### 🏆 **GitHub Achievements**
-![Trophy](https://github-profile-trophy.vercel.app/?username=urstrulyPrateeK&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=4&amp;row=2)
+![Trophy](https://github-profile-trophy.vercel.app/?username=urstrulyPrateeK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)
 
 </div>
 
@@ -299,7 +299,7 @@ timeline
 <div align="center" style="margin: 20px 0;">
 
 ### 📈 **Development Activity**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyPrateeK&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=58A6FF&amp;point=FFFFFF&amp;border_radius=20)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyPrateeK&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&border_radius=20)
 
 </div>
 
@@ -452,7 +452,7 @@ pie title Technical Skills Distribution
 
 ### 🤝 **Let's Build Something Amazing Together!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Open+for+Collaboration;AI+%26+ML+Projects;Full-Stack+Development;Cybersecurity+Solutions;Chrome+Extensions" alt="Collaboration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+for+Collaboration;AI+%26+ML+Projects;Full-Stack+Development;Cybersecurity+Solutions;Chrome+Extensions" alt="Collaboration" />
 
 <div style="margin: 20px 0;">
 
