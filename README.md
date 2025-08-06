@@ -1,48 +1,81 @@
 <div align="center">
-  
-# 🚀 Hey there! I'm Prateek Singh
-### 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI/ML Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+amazing+web+applications;AI+%26+Machine+Learning+Projects;Cybersecurity+%26+Blockchain+Solutions;Always+learning+new+technologies!" alt="Typing SVG" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/ap- 🔄 Real-time post context analysis?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/urstrulyprateek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-singh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emperorprateek74@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urstrulyPrateeK)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919210882150)
+<!-- Professional Title with Glitch Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<img width="100%" height="2" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
+<!-- Animated Subtitle -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Crafting+innovative+solutions+with+cutting-edge+technology;Building+AI-powered+applications+that+make+a+difference;Securing+digital+landscapes+with+advanced+cybersecurity;Transforming+ideas+into+scalable+web+applications" alt="Subtitle Typing SVG" />
+</h3>
+
+<!-- Matrix Rain Effect Separator -->
+<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png"/>
+
+<!-- Social Links with Hover Effects -->
+<p align="center">
+  <a href="https://linktr.ee/urstrulyprateek">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722"/>
+  </a>
+  <a href="https://linkedin.com/in/prateek-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:emperorprateek74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/urstrulyPrateeK">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header&reversal=false&textBg=false"/>
 
 </div>
 
-## 🌟 FEATURED LIVE PROJECTS
-
+<!-- STAR PROJECTS SHOWCASE -->
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,20&height=100&section=header&text=FEATURED%20LIVE%20PROJECTS&fontSize=24&fontColor=fff&animation=scaleIn&fontAlignY=70"/>
 
 ### 🏆 **STAR PROJECTS - LIVE & IN ACTION** 🏆
+*Click to experience the magic!*
 
 </div>
 
+<!-- Animated Project Cards -->
 <table width="100%">
 <tr>
-<td width="50%">
-
-### 🤖 [Praktice.AI - AI Mock Interview Platform](https://prakticeai.vercel.app/)
-**🔥 LIVE PROJECT 🔥**
+<td width="50%" align="center">
 
 <div align="center">
-<img src="https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  
+### 🤖 **[Praktice.AI - AI Mock Interview Platform](https://prakticeai.vercel.app/)**
+**🔥 LIVE PROJECT - EXPERIENCE IT NOW! 🔥**
+
+<!-- Animated Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🔴%20LIVE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000&color=00ff41&logoWidth=20"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
 </div>
 
 🎯 **Revolutionary AI-powered mock interview platform**
 - 🚀 Built with React 19, TypeScript, TailwindCSS
-- 🧠 Google Gemini AI integration for real-time feedback  
-- 🔐 Clerk authentication with social login
+- 🧠 Google Gemini AI for real-time feedback  
+- 🔐 Clerk authentication & social login
 - 📊 Live analytics & progress tracking
-- 🔥 Firebase Firestore for real-time data
+- 🔥 Firebase Firestore real-time data
+
+**🎯 [🚀 Start Your Mock Interview Journey!](https://prakticeai.vercel.app/)**
 
 </td>
 <td width="50%">
@@ -72,55 +105,95 @@
 <img width="100%" height="2" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
 </div>
 
-## 🎓 Education & Achievements
-
+<!-- EDUCATION SECTION WITH ADVANCED ANIMATIONS -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=EDUCATION%20%26%20ACHIEVEMENTS&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+
+<!-- Interactive Timeline -->
 ```mermaid
 timeline
-    title My Learning Journey
-    2022 : Started B.Tech in CSE/IT
-    2023 : Completed DSA Course (100+ Problems)
-    2024 : Honors in Cyber Security
-    2025 : AI/ML Projects & Live Applications
+    title 🎓 My Academic & Professional Journey
+    2022-2026 : 🏛️ B.Tech CSE/IT (CGPA: 8.3/10)
+             : 📚 Abdul Kalam Technical University
+    2023     : 🧠 DSA Mastery (100+ Problems Solved)
+             : 🏆 GeeksforGeeks Certification
+    2024     : 🔐 Honors in Cyber Security
+             : 🛡️ AKTU Specialization
+    2025     : 🚀 Live AI/ML Projects Deployed
+             : 🌐 Chrome Extension Published
+             : 🤖 AI-Powered Applications
 ```
 
 </div>
 
+<!-- Animated Education Cards -->
 <table width="100%">
 <tr>
 <td width="70%">
 
+<div align="center">
+  
 ### 🏛️ **Abdul Kalam Technical University** (2022 - 2026)
 **Bachelor of Technology - Computer Science & Information Technology**
 
-<div align="left">
-<img src="https://img.shields.io/badge/CGPA-8.3/10-brightgreen?style=for-the-badge&logo=academic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Year-4th-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
+<!-- Animated Academic Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/CGPA-8.3%2F10-brightgreen?style=for-the-badge&logo=academic&logoColor=white&labelColor=2C5F2D&color=00C851"/>
+  <img src="https://img.shields.io/badge/Year-4th%20Year-blue?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1565C0&color=2196F3"/>
+  <img src="https://img.shields.io/badge/Status-Final%20Year-orange?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=F57F17&color=FF9800"/>
+</p>
+
 </div>
 
 </td>
 <td width="30%">
 
-### 📈 **Performance**
+### 📈 **Academic Excellence**
 ```
-Current CGPA: 8.3/10
-Academic Year: 4th
-Specialization: CSE/IT
+🎯 Current CGPA: 8.3/10
+📅 Academic Year: 4th (Final)
+🎓 Specialization: CSE/IT
+🏆 Academic Standing: Top Performer
+📊 Technical Focus: AI/ML & Security
 ```
 
 </td>
 </tr>
 </table>
 
-## 🏆 Certifications & Courses
-
+<!-- CERTIFICATIONS WITH PROFESSIONAL ANIMATIONS -->
 <div align="center">
 
-| 🎯 **Course** | 🏢 **Institution** | 🏅 **Achievement** |
-|---------------|-------------------|-------------------|
-| **Data Structures & Algorithms** | GeeksforGeeks | ✅ **100+ Problems Solved** |
-| **Honors in Cyber Security** | AKTU | 🔐 **Security Expert** |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,15&height=80&section=header&text=CERTIFICATIONS%20%26%20EXPERTISE&fontSize=20&fontColor=fff&animation=scaleIn&fontAlignY=60"/>
+
+<!-- Professional Achievement Cards -->
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+#### 🧠 **Data Structures & Algorithms**
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+**🏅 Master Level Achievement**
+- ✅ **100+ Coding Problems Mastered**
+- 🚀 **Advanced Algorithm Implementation**
+- 💡 **Optimized Problem-Solving Techniques**
+
+</td>
+<td align="center" width="50%">
+
+#### 🔐 **Honors in Cyber Security**
+<img src="https://img.shields.io/badge/AKTU-FF6B35?style=for-the-badge&logo=security&logoColor=white"/>
+
+**🛡️ Security Specialist**
+- � **Advanced Cryptographic Systems**
+- 🛠️ **Penetration Testing & Analysis**
+- 🔍 **Vulnerability Assessment Expert**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -128,36 +201,43 @@ Specialization: CSE/IT
 <img width="100%" height="2" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
 </div>
 
-## 🛠️ Technical Arsenal
-
+<!-- TECHNICAL ARSENAL WITH ADVANCED ANIMATIONS -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25,30&height=120&section=header&text=TECHNICAL%20ARSENAL&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+<!-- Interactive Tech Stack Visualization -->
 
 ### 💻 **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,postgres" />
+</p>
 
 ### 🚀 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,tensorflow,express,tailwind" />
+</p>
 
-### 🛡️ **Cybersecurity & Tools**
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![AES](https://img.shields.io/badge/AES_Encryption-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+### 🛡️ **Cybersecurity & Blockchain**
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES_Encryption-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
+</p>
 
-### ☁️ **Cloud & Deployment**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ☁️ **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,mysql,git,github,vscode" />
+</p>
+
+<!-- Animated Tech Proficiency -->
+<div align="center">
+  
+#### 🎯 **Technology Mastery Level**
+![Tech Animation](https://github-readme-stats.vercel.app/api/wakatime?username=urstrulyPrateeK&theme=tokyonight&layout=compact)
+
+</div>
 
 </div>
 
@@ -165,32 +245,52 @@ Specialization: CSE/IT
 <img width="100%" height="2" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
 </div>
 
-## 📊 GitHub Analytics
-
+<!-- GITHUB ANALYTICS WITH PROFESSIONAL ANIMATIONS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=urstrulyPrateeK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyPrateeK&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,20&height=120&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=75"/>
+
+<!-- Advanced GitHub Stats Grid -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 📊 **Performance Metrics**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urstrulyPrateeK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 **Language Distribution**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyPrateeK&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</td>
+</tr>
+</table>
+
+<!-- Streak Stats with Animation -->
+<div align="center" style="margin: 20px 0;">
+
+### ⚡ **Contribution Streak**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=urstrulyPrateeK&theme=tokyonight&border_radius=20&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=urstrulyPrateeK&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
+<!-- Achievement Trophies -->
+<div align="center" style="margin: 20px 0;">
 
 ### 🏆 **GitHub Achievements**
-![Trophy](https://github-profile-trophy.vercel.app/?username=urstrulyPrateeK&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=urstrulyPrateeK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2)
 
 </div>
 
-<div align="center">
+<!-- Contribution Graph with Professional Look -->
+<div align="center" style="margin: 20px 0;">
 
-### 📈 **Contribution Graph**
-[![Prateek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyPrateeK&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 **Development Activity**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyPrateeK&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&border_radius=20)
+
+</div>
 
 </div>
 
@@ -206,7 +306,20 @@ Specialization: CSE/IT
 <tr>
 <td width="33%">
 
-#### 🎭 **Gender Detection Through Voice**
+#### 🛒 **Mart in Seconds - E-commerce Backend**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+🛍️ **Scalable e-commerce backend system**
+- �️ RESTful API architecture
+- 📦 Real-time inventory management
+- 💳 Transaction handling system
+- 🔄 Modular deployment architecture
+
+</td>
+<td width="33%">
+
+#### �🎭 **Gender Detection Through Voice**
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -230,35 +343,23 @@ Specialization: CSE/IT
 - ⚡ Express.js backend architecture
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td colspan="3" align="center">
 
 #### ⛓️ **Blockchain Ledger System**
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-🔗 **Distributed ledger with proof-of-work**
-- ⛏️ SHA-256 cryptographic hashing
+🔗 **Distributed ledger with proof-of-work consensus**
+- ⛏️ SHA-256 cryptographic hashing for security
 - 🔐 Proof-of-work consensus mechanism
-- 💰 Secure wallet architecture
-- 🔒 Immutable data integrity
+- 💰 Secure wallet architecture with unique identifiers
+- 🔒 Immutable data integrity and tamper-proof design
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-#### 🛒 **Mart in Seconds - E-commerce Backend**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-🛍️ **Scalable e-commerce backend system**
-- 🏗️ RESTful API architecture
-- 📦 Real-time inventory management
-- 💳 Transaction handling system
-- 🔄 Modular deployment architecture
-
-</div>
 
 <div align="center">
 <img width="100%" height="2" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png">
@@ -346,7 +447,6 @@ pie title Technical Skills Distribution
 
 [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Links-00D4FF?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/urstrulyprateek)
 [![Email](https://img.shields.io/badge/📧_Email-emperorprateek74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emperorprateek74@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+91--9210882150-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919210882150)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-singh)
 
 </div>
