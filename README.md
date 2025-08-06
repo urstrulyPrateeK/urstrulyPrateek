@@ -1,25 +1,13 @@
-<div align="center">
+<d<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>n="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render### 🌐 **[urstrulyPrateek - AI LinkedIn Assistant](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)- 🔒 **Advanced Cryptographic Systems***
-**🔥 LIVE CHROME EXTENSION - TRY IT NOW! 🔥**
-
-<div align="center">
-<img src="h- 🏗️ RE#### 🎭 **Gender Detection Through Voice**Tful API architecturetps://img.shields.io/badge/Chrome_Store-🔴%20LIVE-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000&color=00ff41"/>
-<br/>
-<img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</div>
-
-🎯 **Game-changing LinkedIn engagement tool**
+<img src="https://capsule-render.vercel.app/ap- 🎯 **Game-changing LinkedIn engagement tool**
 - ⚡ Chrome Extension Manifest V3 compliant
 - 🤖 Google Generative AI powered
 - 🎨 13+ AI-generated comment tones
-- 🔄 Real-time post context analysis
-- 💼 Authentic professional conversations
-
-**🚀 [Install Now & Boost Your LinkedIn Game!](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)**type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
+- � Real-time post context analysis
+- 💼 Authentic professional conversationsl-time post context analysis?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
 
 <!-- Professional Title with Slower Animation -->
 <h1 align="center">
@@ -96,16 +84,22 @@
 **🎯 [🚀 Start Your Mock Interview Journey!](https://prakticeai.vercel.app/)**
 
 </td>
-<td width="50%">
-
-### 🌐 [AI LinkedIn Comment Assistant](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)
-**🔥 LIVE CHROME EXTENSION 🔥**
+<td width="50%" align="center">
 
 <div align="center">
-<img src="https://img.shields.io/badge/Chrome_Store-LIVE-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+### 🌐 **[urstrulyPrateek - AI LinkedIn Assistant](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)**
+**🔥 LIVE CHROME EXTENSION - TRY IT NOW! 🔥**
+
+<!-- Animated Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Chrome_Store-🔴%20LIVE-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000&color=00ff41&logoWidth=20"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
 </div>
 
 🎯 **Game-changing LinkedIn engagement tool**
