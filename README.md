@@ -114,7 +114,7 @@
 <!-- EDUCATION SECTION WITH ADVANCED ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=EDUCATION%20%26%20ACHIEVEMENTS&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=EDUCATION%20AND%20ACHIEVEMENTS&fontSize=22&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 
 <!-- Interactive Timeline -->
 ```mermaid
@@ -171,7 +171,7 @@ timeline
 <!-- CERTIFICATIONS WITH PROFESSIONAL ANIMATIONS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,15&height=80&section=header&text=CERTIFICATIONS%20%26%20EXPERTISE&fontSize=20&fontColor=fff&animation=scaleIn&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,15&height=80&section=header&text=CERTIFICATIONS%20AND%20EXPERTISE&fontSize=20&fontColor=fff&animation=scaleIn&fontAlignY=60"/>
 
 <!-- Professional Achievement Cards -->
 <table width="100%">
@@ -283,7 +283,7 @@ timeline
 <div align="center" style="margin: 20px 0;">
 
 ### ⚡ **Contribution Streak**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=urstrulyPrateeK&theme=tokyonight&border_radius=20&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=urstrulyPrateeK&theme=tokyonight&border_radius=20&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
