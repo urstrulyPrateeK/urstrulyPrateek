@@ -1,16 +1,34 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/ap- 🔄 Real-time post context analysis?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render### 🌐 **[urstrulyPrateek - AI LinkedIn Assistant](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)- 🔒 **Advanced Cryptographic Systems***
+**🔥 LIVE CHROME EXTENSION - TRY IT NOW! 🔥**
 
-<!-- Professional Title with Glitch Effect -->
+<div align="center">
+<img src="h- 🏗️ RE#### 🎭 **Gender Detection Through Voice**Tful API architecturetps://img.shields.io/badge/Chrome_Store-🔴%20LIVE-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000&color=00ff41"/>
+<br/>
+<img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</div>
+
+🎯 **Game-changing LinkedIn engagement tool**
+- ⚡ Chrome Extension Manifest V3 compliant
+- 🤖 Google Generative AI powered
+- 🎨 13+ AI-generated comment tones
+- 🔄 Real-time post context analysis
+- 💼 Authentic professional conversations
+
+**🚀 [Install Now & Boost Your LinkedIn Game!](https://chromewebstore.google.com/detail/ppobihemedjfiggfmcecefdaikfkhajo)**type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
+
+<!-- Professional Title with Slower Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Subtitle -->
+<!-- Animated Subtitle with Slower Speed -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Crafting+innovative+solutions+with+cutting-edge+technology;Building+AI-powered+applications+that+make+a+difference;Securing+digital+landscapes+with+advanced+cybersecurity;Transforming+ideas+into+scalable+web+applications" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=Crafting+innovative+solutions+with+cutting-edge+technology;Building+AI-powered+applications+that+make+a+difference;Securing+digital+landscapes+with+advanced+cybersecurity;Transforming+ideas+into+scalable+web+applications" alt="Subtitle Typing SVG" />
 </h3>
 
 <!-- Matrix Rain Effect Separator -->
@@ -234,8 +252,13 @@ timeline
 <!-- Animated Tech Proficiency -->
 <div align="center">
   
-#### 🎯 **Technology Mastery Level**
-![Tech Animation](https://github-readme-stats.vercel.app/api/wakatime?username=urstrulyPrateeK&theme=tokyonight&layout=compact)
+#### 🎯 **Technology Focus Areas**
+<p align="center">
+<img src="https://img.shields.io/badge/AI%2FML-Expert-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-Advanced-blue?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Specialist-red?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-Proficient-orange?style=for-the-badge&logo=blockchain&logoColor=white"/>
+</p>
 
 </div>
 
