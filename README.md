@@ -1,13 +1,7 @@
-<d<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>n="center">
+<div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/ap- 🎯 **Game-changing LinkedIn engagement tool**
-- ⚡ Chrome Extension Manifest V3 compliant
-- 🤖 Google Generative AI powered
-- 🎨 13+ AI-generated comment tones
-- � Real-time post context analysis
-- 💼 Authentic professional conversationsl-time post context analysis?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
 
 <!-- Professional Title with Slower Animation -->
 <h1 align="center">
@@ -106,7 +100,7 @@
 - ⚡ Chrome Extension Manifest V3 compliant
 - 🤖 Google Generative AI powered
 - 🎨 13+ AI-generated comment tones
-- � Real-time post context analysis
+- 🔍 Real-time post context analysis
 - 💼 Authentic professional conversations
 
 </td>
@@ -199,7 +193,7 @@ timeline
 <img src="https://img.shields.io/badge/AKTU-FF6B35?style=for-the-badge&logo=security&logoColor=white"/>
 
 **🛡️ Security Specialist**
-- � **Advanced Cryptographic Systems**
+- 🔐 **Advanced Cryptographic Systems**
 - 🛠️ **Penetration Testing & Analysis**
 - 🔍 **Vulnerability Assessment Expert**
 
@@ -328,7 +322,7 @@ timeline
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 🛍️ **Scalable e-commerce backend system**
-- �️ RESTful API architecture
+- ⚡ RESTful API architecture
 - 📦 Real-time inventory management
 - 💳 Transaction handling system
 - 🔄 Modular deployment architecture
@@ -336,7 +330,7 @@ timeline
 </td>
 <td width="33%">
 
-#### �🎭 **Gender Detection Through Voice**
+#### 🎭 **Gender Detection Through Voice**
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -495,10 +489,10 @@ pie title Technical Skills Distribution
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
