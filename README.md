@@ -1,11 +1,11 @@
-<div al  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />gn="center">
+<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prateek%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Cybersecurity%20Expert&descAlignY=55&descAlign=50"/>
 
 <!-- Professional Title with Slower Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=4000&amp;pause=2000&amp;color=00D4AA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prateek+Singh+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Expert+%F0%9F%94%90;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Subtitle with Slower Speed -->
@@ -479,9 +479,9 @@ pie title Technical Skills Distribution
 <div align="center">
 
 ### 🎨 **Profile Views**
-![Profile Views](https://komarev.com/ghpvc/?username=urstrulyPrateeK&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=urstrulyPrateeK&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=30&amp;fontColor=fff&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
 <!--
